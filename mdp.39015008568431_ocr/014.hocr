@@ -1,0 +1,26 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/16 pt.3/mdp.39015008568431/014.png"; bbox 0 0 4082 6328; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 739 2004 2928 2315">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 739 2004 2928 2315">
+     <span class='ocr_line' id='line_1_1' title="bbox 739 2004 2928 2315; baseline -0.005 1"><span class='ocrx_word' id='word_1_1' title='bbox 739 2004 2928 2315; x_wconf 55' lang='grc' dir='ltr'><strong>ἨΕΧΑΡΕΟΒΠΜ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1377 2564 2464 2677">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1377 2564 2464 2677">
+     <span class='ocr_line' id='line_1_2' title="bbox 1377 2564 2464 2677; baseline -0.005 -17"><span class='ocrx_word' id='word_1_2' title='bbox 1377 2567 1657 2677; x_wconf 71' lang='grc' dir='ltr'><strong>ΟΗᾹΞ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1765 2564 2464 2658; x_wconf 81' lang='lat' dir='ltr'><strong>SUPERSUNT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1546 2887 2270 2925">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1546 2887 2270 2925">
+     <span class='ocr_line' id='line_1_3' title="bbox 1546 2887 2270 2925; baseline 0.003 -12"><span class='ocrx_word' id='word_1_4' title='bbox 1546 2887 2270 2925; x_wconf 55' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 967 3156 2836 3318">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 967 3156 2836 3318">
+     <span class='ocr_line' id='line_1_4' title="bbox 967 3156 2836 3318; baseline -0.003 0"><span class='ocrx_word' id='word_1_5' title='bbox 967 3156 1527 3318; x_wconf 81' lang='lat' dir='ltr'><strong>LIBER</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1657 3159 2836 3318; x_wconf 83' lang='lat' dir='ltr'><strong>EZECHIELIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
